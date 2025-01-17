@@ -26,6 +26,8 @@ cityList.setOnItemClickListener(new AdapterView.OnItemClickListener() {
         });
 ```
 
+Taken from geeksforgeeks.org
+
 "Handling Click Events in Button in Java Android" 2025-01-06"
 
 Authored by: Geeksforgeeks
