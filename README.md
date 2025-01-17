@@ -3,8 +3,8 @@
 
 ## Student Details
 
-- **Full Name:** Eric Mo
-- **CCID:** emo2
+- **Full Name:** `Eric Mo`
+- **CCID:** `emo2`
 
 ## References and Resources
 // Need to add
