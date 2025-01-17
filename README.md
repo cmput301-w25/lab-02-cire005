@@ -8,15 +8,15 @@
 
 ## References and Resources:
 
-# The following video was used to understand how to handle events from ListView 
+The following video was used to understand how to handle events from ListView 
 
-# Taken from https://www.youtube.com/watch?v=fe-19__2gHI
+Taken from https://www.youtube.com/watch?v=fe-19__2gHI
 
-# Authored by: Random Code
+Authored by: Random Code
 
-# Taken by: Eric Mo
+Taken by: Eric Mo
 
-# Taken on: 2025/01/16
+Taken on: 2025/01/16
 ```
 cityList.setOnItemClickListener(new AdapterView.OnItemClickListener() {
             @Override
@@ -26,13 +26,13 @@ cityList.setOnItemClickListener(new AdapterView.OnItemClickListener() {
         });
 ```
 
-# "Handling Click Events in Button in Java Android" 2025-01-06"
+"Handling Click Events in Button in Java Android" 2025-01-06"
 
-# Authored by: Geeksforgeeks
+Authored by: Geeksforgeeks
 
-# Taken by: Eric Mo
+Taken by: Eric Mo
 
-# Taken on: 2025/01/16
+Taken on: 2025/01/16
 
 ```
 android:onClick="sendMessage"
