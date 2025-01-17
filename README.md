@@ -3,10 +3,11 @@
 
 ## Student Details
 
-- **Full Name:** `<Enter name>`
-- **CCID:** `<Enter ccid>`
+- **Full Name:** Eric Mo
+- **CCID:** emo2
 
 ## References and Resources
+// Need to add
 
 List any resources used here, or simply put `N/A` if not applicable.
 
